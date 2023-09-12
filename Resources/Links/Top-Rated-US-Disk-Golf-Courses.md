@@ -1,0 +1,1 @@
+https://www.discgolfscene.com/courses/USA/top-rated
