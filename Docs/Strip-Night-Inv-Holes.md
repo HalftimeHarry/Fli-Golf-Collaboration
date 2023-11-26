@@ -1,8 +1,6 @@
 # Las Vegas Strip Night Invitational - October 2026
 
-# Las Vegas Strip Night Invitational - Updated Holes
-
-# Las Vegas Disc Golf Tournament
+# Disc Golf Tournament
 
 ## MGM Grand
 
