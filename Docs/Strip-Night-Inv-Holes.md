@@ -2,83 +2,70 @@
 
 # Las Vegas Strip Night Invitational - Updated Holes
 
-## MGM Grand:
+# Las Vegas Disc Golf Tournament
 
-1. **MGM Gateway - Par 4, 420ft**
-   - A challenging opening hole that starts inside the MGM Grand and finishes in the outdoor garden area.
+## MGM Grand
 
-2. **Lion's Roar - Par 3, 210ft**
-   - A shorter hole that requires precision to navigate around the famous MGM lion statue.
+- **Lion's Roar** - Par 3, 210ft
+  - A precise throw around the MGM lion statue.
+- **MGM Gateway** - Par 3, 210ft
+  - Modified from par 4 to par 3, a throw from inside MGM Grand to the garden area.
+- **Grand Poolside** - Par 3, 210ft
+  - Altered from par 4, a throw from inside the hotel to the outdoor pool area.
 
-3. **Grand Poolside - Par 4, 400ft**
-   - A hole that starts inside the hotel and finishes in the outdoor pool area.
+## Aria
 
-## Aria:
+- **CityCenter View** - Par 3, 210ft
+  - A throw over a water feature to the basket.
+- **Aria Ascend** - Par 3, 210ft
+  - Changed from par 4, starts inside Aria, finishes on the roof.
+- **Harmon Harmony** - Par 3, 210ft
+  - Modified from par 4, from the roof of Aria to CityCenter complex.
 
-4. **Aria Ascend - Par 4, 400ft**
-   - A stunning hole that starts inside the Aria and finishes on the roof, with views of the Strip.
+## Hilton Grand
 
-5. **CityCenter View - Par 3, 210ft**
-   - A hole that requires a throw over a water feature to reach the basket.
+- **Skyline Swing** - Par 3, 210ft
+  - A throw over the Hilton Grand's pool area.
+- **Hilton Highrise** - Par 3, 210ft
+  - Changed from par 4, starts at the top of Hilton Grand to ground level.
+- **Grand Getaway** - Par 3, 210ft
+  - Modified from par 4, spans multiple levels of Hilton Grand.
 
-6. **Harmon Harmony - Par 4, 420ft**
-   - A hole that starts on the roof of the Aria and finishes in the nearby CityCenter complex.
+## Wynn
 
-## Hilton Grand:
+- **Encore Enigma** - Par 3, 210ft
+  - Precision needed to navigate the Encore's pool area.
+- **Wynn Whirlwind** - Par 3, 210ft
+  - Altered from par 4, from inside the Wynn to outside, over a water feature.
+- **Lake of Dreams** - Par 3, 210ft
+  - Changed from par 4, a throw over the Wynn's Lake of Dreams.
 
-7. **Hilton Highrise - Par 4, 420ft**
-   - A hole that starts at the top of the Hilton Grand and finishes on the ground level.
+## Caesars Palace
 
-8. **Skyline Swing - Par 3, 210ft**
-   - A hole that requires a throw over the Hilton Grand's pool area.
+- **Colosseum Clash** - Par 3, 210ft
+  - Navigating around the Colosseum at Caesars Palace.
+- **Caesar's Challenge** - Par 3, 210ft
+  - Modified from par 4, from inside Caesars Palace to outside, over fountains.
+- **Palace Pursuit** - Par 3, 210ft
+  - Changed from par 4, from the roof of Caesars Palace to the Forum Shops.
 
-9. **Grand Getaway - Par 4, 400ft**
-   - A hole that spans multiple levels of the Hilton Grand.
+## The Mirage
 
-## Wynn:
+- **Volcano Venture** - Par 3, 210ft
+  - Navigating around the Mirage's volcano.
+- **Mirage Mirage** - Par 3, 210ft
+  - Altered from par 4, from inside the Mirage to outside, over the volcano.
+- **Siegfried & Roy's Realm** - Par 3, 210ft
+  - Modified from par 4, a throw over the Mirage's dolphin habitat.
 
-10. **Wynn Whirlwind - Par 4, 400ft**
-   - A hole that starts inside the Wynn and finishes outside, with a throw over the hotel's water feature.
+## The Palms Casino Resort
 
-11. **Encore Enigma - Par 3, 210ft**
-   - A hole that requires precision to navigate around the Encore's pool area.
-
-12. **Lake of Dreams - Par 4, 420ft**
-   - A hole that requires a throw over the Wynn's Lake of Dreams.
-
-## Caesars Palace:
-
-13. **Caesar's Challenge - Par 4, 420ft**
-   - A hole that starts inside Caesars Palace and finishes outside, with a throw over the hotel's famous fountains.
-
-14. **Colosseum Clash - Par 3, 210ft**
-   - A hole that requires precision to navigate around the Colosseum at Caesars Palace.
-
-15. **Palace Pursuit - Par 4, 400ft**
-   - A hole that starts on the roof of Caesars Palace and finishes in the nearby Forum Shops.
-
-## The Mirage:
-
-16. **Mirage Mirage - Par 4, 420ft**
-   - A challenging hole that starts inside the Mirage and finishes outside, with a throw over the hotel's volcano.
-
-17. **Volcano Venture - Par 3, 210ft**
-   - A hole that requires precision to navigate around the Mirage's volcano.
-
-18. **Siegfried & Roy's Realm - Par 4, 400ft**
-   - A hole that requires a throw over the Mirage's dolphin habitat.
-
-## The Palms Casino Resort:
-
-19. **Palms Paradise - Par 4, 420ft**
-   - A hole that starts at the top of The Palms and finishes on the ground level.
-
-20. **Celebrity Swing - Par 3, 210ft**
-   - A hole that requires a throw over The Palms' pool area.
-
-21. **Palms Panorama - Par 4, 400ft**
-   - A hole that requires a throw with views of the entire Strip.
-
+- **Celebrity Swing** - Par 3, 210ft
+  - A throw over The Palms' pool area.
+- **Palms Paradise** - Par 3, 210ft
+  - Changed from par 4, from the top of The Palms to ground level.
+- **Palms Panorama** - Par 3, 210ft
+  - Modified from par 4, a throw with views of the entire Strip.
 
 ## Schedule:
 
@@ -88,6 +75,10 @@
 ## Player Movement:
 
 The tournament will be organized in such a way that players will move from one hotel to the next, playing three holes at each hotel before moving on.
+
+# Las Vegas Disc Golf Tournament Timeline
+
+## Course Layout:
 
 - **MGM Grand:** Holes 1 - 3
 - **Aria:** Holes 4 - 6
@@ -99,30 +90,33 @@ The tournament will be organized in such a way that players will move from one h
 
 ## Player Movement Schedule:
 
-- **7:15 PM - 8:00 PM:** Players complete their first three holes at their starting hotel.
+- **7:15 PM - 8:00 PM:**
+  - Players complete their first three holes at their starting hotel.
+- **8:00 PM - 8:15 PM:**
+  - Players travel via Uber to the next hotel.
+- **8:15 PM - 9:00 PM:**
+  - Players complete holes 4 - 6.
+- **9:00 PM - 9:15 PM:**
+  - Players travel via Uber to the third hotel.
+- **9:15 PM - 10:00 PM:**
+  - Players complete holes 7 - 9.
+- **10:00 PM - 10:15 PM:**
+  - Players travel via Uber to the fourth hotel.
+- **10:15 PM - 11:00 PM:**
+  - Players complete holes 10 - 12.
+- **11:00 PM - 11:15 PM:**
+  - Players travel via Uber to the fifth hotel.
+- **11:15 PM - 12:00 AM:**
+  - Players complete holes 13 - 15.
+- **12:00 AM - 12:15 AM:**
+  - Players travel via Uber to the sixth hotel.
+- **12:15 AM - 1:00 AM:**
+  - Players complete holes 16 - 18.
+- **1:00 AM - 1:15 AM:**
+  - Players travel via Uber to the seventh hotel.
+- **1:15 AM - 2:00 AM:**
 
-- **8:00 PM - 8:15 PM:** Players use Uber ride-sharing services to travel to the next hotel.
+  - Players complete the last three holes (19 - 21).
 
-- **8:15 PM - 9:00 PM:** Players complete the next three holes.
-
-- **9:00 PM - 9:15 PM:** Players use Uber ride-sharing services to travel to the third hotel.
-
-- **9:15 PM - 10:00 PM:** Players complete the next three holes.
-
-- **10:00 PM - 10:15 PM:** Players use Uber ride-sharing services to travel to the fourth hotel.
-
-- **10:15 PM - 11:00 PM:** Players complete the next three holes.
-
-- **11:00 PM - 11:15 PM:** Players use Uber ride-sharing services to travel to the fifth hotel.
-
-- **11:15 PM - 12:00 AM:** Players complete the next three holes.
-
-- **12:00 AM - 12:15 AM:** Players use Uber ride-sharing services to travel to the sixth hotel.
-
-- **12:15 AM - 1:00 AM:** Players complete the next three holes.
-
-- **1:00 AM - 1:15 AM:** Players use Uber ride-sharing services to travel to the seventh hotel.
-
-- **1:15 AM - 2:00 AM:** Players complete the last three holes.
-
-- **2:15 AM:** Awards ceremony and closing remarks.
+- **2:15 AM:**
+  - Awards ceremony and closing remarks.
