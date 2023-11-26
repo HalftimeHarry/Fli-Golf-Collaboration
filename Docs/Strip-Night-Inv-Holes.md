@@ -4,66 +4,72 @@
 
 ## MGM Grand
 
+# Las Vegas Disc Golf Tournament Course Layout
+
+# Las Vegas Disc Golf Tournament Course Layout
+
+## MGM Grand:
+
 - **Lion's Roar** - Par 3, 210ft
   - A precise throw around the MGM lion statue.
-- **MGM Gateway** - Par 3, 210ft
-  - Modified from par 4 to par 3, a throw from inside MGM Grand to the garden area.
-- **Grand Poolside** - Par 3, 210ft
-  - Altered from par 4, a throw from inside the hotel to the outdoor pool area.
+- **Grand Gateway** - Par 3, 230ft
+  - A challenging throw that starts inside the MGM Grand and ends in the outdoor garden area.
+- **Poolside Putt** - Par 3, 250ft
+  - A scenic hole that begins inside the hotel and ends in the outdoor pool area.
 
-## Aria
+## Aria:
 
-- **CityCenter View** - Par 3, 210ft
-  - A throw over a water feature to the basket.
-- **Aria Ascend** - Par 3, 210ft
-  - Changed from par 4, starts inside Aria, finishes on the roof.
-- **Harmon Harmony** - Par 3, 210ft
-  - Modified from par 4, from the roof of Aria to CityCenter complex.
+- **Rooftop Rally** - Par 3, 220ft
+  - Starts inside the Aria and finishes on the roof, offering stunning views of the Strip.
+- **CityCenter Sling** - Par 3, 240ft
+  - Requires a strategic throw over a water feature to reach the basket.
+- **Harmon Heights** - Par 3, 200ft
+  - A unique hole that starts on the roof of the Aria and ends in the CityCenter complex.
 
-## Hilton Grand
+## Hilton Grand:
 
-- **Skyline Swing** - Par 3, 210ft
-  - A throw over the Hilton Grand's pool area.
-- **Hilton Highrise** - Par 3, 210ft
-  - Changed from par 4, starts at the top of Hilton Grand to ground level.
-- **Grand Getaway** - Par 3, 210ft
-  - Modified from par 4, spans multiple levels of Hilton Grand.
+- **Skyline Shot** - Par 3, 230ft
+  - A hole that begins at the top of the Hilton Grand and concludes at ground level.
+- **Elevated Elegance** - Par 3, 205ft
+  - Requires a throw over the Hilton Grand's pool area.
+- **Grandeur Glide** - Par 3, 225ft
+  - A multi-level hole spanning various floors of the Hilton Grand.
 
-## Wynn
+## Wynn:
 
-- **Encore Enigma** - Par 3, 210ft
-  - Precision needed to navigate the Encore's pool area.
-- **Wynn Whirlwind** - Par 3, 210ft
-  - Altered from par 4, from inside the Wynn to outside, over a water feature.
-- **Lake of Dreams** - Par 3, 210ft
-  - Changed from par 4, a throw over the Wynn's Lake of Dreams.
+- **Encore Escape** - Par 3, 210ft
+  - A hole demanding precision to navigate around the Encore's pool area.
+- **Wynn Windup** - Par 3, 245ft
+  - Begins inside the Wynn and concludes outside, crossing the hotel's water feature.
+- **Dreams Drive** - Par 3, 215ft
+  - Challenges players with a throw over the Wynn's Lake of Dreams.
 
-## Caesars Palace
+## Caesars Palace:
 
-- **Colosseum Clash** - Par 3, 210ft
-  - Navigating around the Colosseum at Caesars Palace.
-- **Caesar's Challenge** - Par 3, 210ft
-  - Modified from par 4, from inside Caesars Palace to outside, over fountains.
-- **Palace Pursuit** - Par 3, 210ft
-  - Changed from par 4, from the roof of Caesars Palace to the Forum Shops.
+- **Colosseum Curve** - Par 3, 235ft
+  - A technical hole around the Colosseum at Caesars Palace.
+- **Fountain Flyover** - Par 3, 220ft
+  - Starts inside Caesars Palace and finishes outside, over the famous fountains.
+- **Palace Pitch** - Par 3, 230ft
+  - A rooftop start at Caesars Palace, ending in the nearby Forum Shops.
 
-## The Mirage
+## The Mirage:
 
-- **Volcano Venture** - Par 3, 210ft
-  - Navigating around the Mirage's volcano.
-- **Mirage Mirage** - Par 3, 210ft
-  - Altered from par 4, from inside the Mirage to outside, over the volcano.
-- **Siegfried & Roy's Realm** - Par 3, 210ft
-  - Modified from par 4, a throw over the Mirage's dolphin habitat.
+- **Volcano Voyage** - Par 3, 210ft
+  - A strategic hole around the Mirage's volcano.
+- **Mirage Mystery** - Par 3, 225ft
+  - Begins inside the Mirage and ends outside, over the hotel's volcano.
+- **Tropical Toss** - Par 3, 235ft
+  - Players throw over the Mirage's dolphin habitat.
 
-## The Palms Casino Resort
+## The Palms Casino Resort:
 
-- **Celebrity Swing** - Par 3, 210ft
-  - A throw over The Palms' pool area.
-- **Palms Paradise** - Par 3, 210ft
-  - Changed from par 4, from the top of The Palms to ground level.
-- **Palms Panorama** - Par 3, 210ft
-  - Modified from par 4, a throw with views of the entire Strip.
+- **Palms Panorama** - Par 3, 220ft
+  - A scenic throw over The Palms' pool area.
+- **Celebrity Circuit** - Par 3, 205ft
+  - Begins at the top of The Palms and ends at ground level.
+- **Resort Roundabout** - Par 3, 240ft
+  - A hole offering panoramic views of the entire Strip.
 
 ## Schedule:
 
