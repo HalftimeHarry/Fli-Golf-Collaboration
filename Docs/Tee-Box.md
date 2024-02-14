@@ -172,3 +172,18 @@ Artificial Turf:
 
 You haven't provided the dimensions or cost per square foot of the artificial turf. Please provide this information so we can calculate the cost accurately.
 Once we have the cost of the artificial turf per square foot and the total square footage required, we can calculate the total cost for the turf. Then, we can sum up the costs of all materials to get the total cost per tee box. Let me know the cost and dimensions of the artificial turf so we can proceed with the calculations.
+
+Cedar Dog-Ear Fence Picket (19/32 in. D x 5-1/2 in. W x 6 ft. H):
+
+8 pieces for the frame (4 for the length, 4 for the width)
+Prime Board (2 in. x 4 in. x 12 ft.):
+
+4 pieces for support braces
+Artificial Turf:
+
+You specified a size of 3/8 inch thickness. We'll need to know the dimensions (length and width) to calculate the area and determine how much turf is needed.
+OSB Sheathing Panel:
+
+Size: 4 ft. x 8 ft.
+Quantity: 1 sheet for the base of the tee box
+Once we have the dimensions of the artificial turf, we can calculate the area and determine how much turf is needed. Then, we can provide an estimate for the cost of the turf and calculate the total cost of materials for building the tee box. Let me know the dimensions of the artificial turf so we can proceed with the calculations.
