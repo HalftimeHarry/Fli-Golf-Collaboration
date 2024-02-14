@@ -150,3 +150,25 @@ Regularly inspect the frame and turf for wear and tear, especially the hinges an
 Consider the weight of the structure for transport and assembly needs; it may require multiple people to safely move and set up.
 Detailed Drawings
 For a professional blueprint with precise measurements and detailed drawings, it's recommended to consult with a carpenter or an engineer. They can take this overview and create detailed, to-scale blueprints suitable for construction, ensuring all safety and structural integrity standards are met.
+
+
+To calculate the cost of materials for your tee boxes, we need to determine the quantities required based on the dimensions provided. Let's break it down:
+
+Cedar Dog-Ear Fence Picket (19/32 in. D x 5-1/2 in. W x 6 ft. H):
+
+Dimensions: 19/32 inch depth, 5-1/2 inches width, 6 feet height
+Cost per piece: $6.72
+Quantity needed:
+For the frame: You need four pieces for the length and four pieces for the width of each tee box. So, a total of 8 pieces per tee box.
+Total cost for the frame per tee box: 8 pieces x $6.72 = $53.76
+Prime Board (2 in. x 4 in. x 12 ft.):
+
+Dimensions: 2 inches depth, 4 inches width, 12 feet length
+Cost per piece: $6.05 (for 100 or more pieces)
+Quantity needed:
+For support braces: You'll need additional lumber for support braces. Let's assume you'll need four braces per tee box.
+Total cost for support braces per tee box: 4 pieces x $6.05 = $24.20
+Artificial Turf:
+
+You haven't provided the dimensions or cost per square foot of the artificial turf. Please provide this information so we can calculate the cost accurately.
+Once we have the cost of the artificial turf per square foot and the total square footage required, we can calculate the total cost for the turf. Then, we can sum up the costs of all materials to get the total cost per tee box. Let me know the cost and dimensions of the artificial turf so we can proceed with the calculations.
